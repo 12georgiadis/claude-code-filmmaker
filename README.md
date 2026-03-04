@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Claude Code Filmmaker" width="100%"/>
+  <img src="assets/header-banner.jpg" alt="Claude Code Filmmaker" width="100%"/>
 </p>
 
 Not a developer tutorial. Not a prompt engineering guide. This is a real, opinionated setup built by an artist who uses Claude Code every day for filmmaking, creative tools, and vibe coding.
