@@ -70,6 +70,7 @@ How the agent is configured, and why.
 | [Scripts Toolkit](patterns/scripts-toolkit.md) | All automation scripts: bootstrap, dashboard, heartbeat, cost calculator, memory search. |
 | [Memory System](patterns/memory-system.md) | Persistent memory across sessions. Daily logs, backlog tracking, Spotlight search. |
 | [Resume Sessions](patterns/resume-sessions.md) | Restore all tmux windows after a reboot with `claude --resume`. One script. |
+| [cmux Session Tracker](patterns/cmux-session-tracker.md) | Final Cut style restore after a cmux crash. Track every claude session per workspace, picker, macOS notif on shell start. |
 | [Cross-Platform](patterns/cross-platform.md) | macOS, Linux, Windows (WSL2). Platform abstraction layer and setup guide. |
 | [Agent Layout Monitoring](patterns/agent-layout-monitoring.md) | Monitor subagent activity in real-time. Split-pane layout, tmux hooks, live tail. |
 | [Multi-Machine Setup](patterns/multi-machine.md) | MacBook + Mac Mini + PC on Tailscale. SSH/mosh, git sync, source of truth. |
